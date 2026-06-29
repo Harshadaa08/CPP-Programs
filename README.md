@@ -28,6 +28,4 @@ Skills Demonstrated
 
 Author
 
-Harshada Kanse 
-
-Programming Enthusiast
+Harshada Kanse | Programming Enthusiast
